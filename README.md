@@ -17,7 +17,7 @@ A automação consiste em um script Python que realiza as seguintes tarefas:
 1. Clone este repositório para o seu computador usando o comando:
 git clone https://github.com/paulo-mesquita/Automacao_Email_com_Python.git
 2. Instale as bibliotecas necessárias usando o comando: pip install pyautogui pyperclip
-3. Abra o arquivo `automacao-prestadores.py` em um editor de código.
+3. Abra o arquivo `automacao-email.py` em um editor de código.
 4. **Modifique Informações Sensíveis:** No código, remova qualquer informação sensível, como endereços de email ou senhas.
 5. Execute o script manualmente para testar se ele está funcionando conforme o esperado.
 
