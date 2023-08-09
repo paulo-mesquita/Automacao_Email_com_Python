@@ -1,4 +1,4 @@
-# Automação de Envio de Email com Anexo
+# Automação de Envio de Email com Anexo em: ![Logo Python](https://www.python.org/static/community_logos/python-logo-generic.svg)
 
 Este projeto é resultado da participação na "Semana do Python na Prática", organizada pela Empowerdata com o profesor Vinicius: https://www.linkedin.com/in/viniciusrochalima/
 
