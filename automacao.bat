@@ -1,4 +1,4 @@
 @echo off
 cd /d "C:\AUTOMACAO\AUTOMAÇÃO-PYTHON"
-python automacao-prestadores.py
+python automacao-email.py
 pause
